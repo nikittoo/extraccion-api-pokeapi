@@ -1,11 +1,8 @@
-# Secretos y configuración local
 .env
 
-# Entornos virtuales
 .venv/
 venv/
 
-# Python
 __pycache__/
 *.pyc
 
