@@ -1,0 +1,21 @@
+id,nombre,altura_m,peso_kg,experiencia_base,tipos,habilidades
+1,bulbasaur,0.7,6.9,64,"grass, poison","overgrow, chlorophyll"
+2,ivysaur,1.0,13.0,142,"grass, poison","overgrow, chlorophyll"
+3,venusaur,2.0,100.0,236,"grass, poison","overgrow, chlorophyll"
+4,charmander,0.6,8.5,62,fire,"blaze, solar-power"
+5,charmeleon,1.1,19.0,142,fire,"blaze, solar-power"
+6,charizard,1.7,90.5,240,"fire, flying","blaze, solar-power"
+7,squirtle,0.5,9.0,63,water,"torrent, rain-dish"
+8,wartortle,1.0,22.5,142,water,"torrent, rain-dish"
+9,blastoise,1.6,85.5,239,water,"torrent, rain-dish"
+10,caterpie,0.3,2.9,39,bug,"shield-dust, run-away"
+11,metapod,0.7,9.9,72,bug,shed-skin
+12,butterfree,1.1,32.0,178,"bug, flying","compound-eyes, tinted-lens"
+13,weedle,0.3,3.2,39,"bug, poison","shield-dust, run-away"
+14,kakuna,0.6,10.0,72,"bug, poison",shed-skin
+15,beedrill,1.0,29.5,178,"bug, poison","swarm, sniper"
+16,pidgey,0.3,1.8,50,"normal, flying","keen-eye, tangled-feet, big-pecks"
+17,pidgeotto,1.1,30.0,122,"normal, flying","keen-eye, tangled-feet, big-pecks"
+18,pidgeot,1.5,39.5,216,"normal, flying","keen-eye, tangled-feet, big-pecks"
+19,rattata,0.3,3.5,51,normal,"run-away, guts, hustle"
+20,raticate,0.7,18.5,145,normal,"run-away, guts, hustle"
