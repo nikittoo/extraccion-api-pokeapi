@@ -5,6 +5,12 @@ import sys
 import time
 from pathlib import Path
 
+
+## Para que el codigo funcione ejecutar en la consola "copy .env.example .env" y luego python extraer_datos.py
+
+
+
+
 import pandas as pd
 import requests
 from dotenv import load_dotenv
